@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SG-STD/arch-toolkit/main/logo.png" alt="Arch Toolkit Logo" width="200">
   <h1>🚀 Arch Bash Toolkit</h1>
   <p><strong>Мощный набор инструментов для управления Arch Linux через графический интерфейс</strong></p>
   
-  ![License](https://img.shields.io/github/license/SG-STD/arch-toolkit)
+  ![License](https://img.shields.io/badge/license-Free-brightgreen)
   ![Version](https://img.shields.io/badge/version-1.0.0-blue)
   ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-supported-brightgreen)
   ![Manjaro](https://img.shields.io/badge/Manjaro-supported-brightgreen)
@@ -18,7 +17,6 @@
 - [📦 Модули](#-модули)
   - [Системные модули](#системные-модули)
   - [Развлекательные модули](#развлекательные-модули)
-- [🖼️ Скриншоты](#-скриншоты)
 - [🤝 Вклад в проект](#-вклад-в-проект)
 - [📄 Лицензия](#-лицензия)
 
@@ -95,19 +93,6 @@ sudo pacman -S yad
 | **ascii_fun** | ASCII-арт и развлечения в терминале |
 | **hacker_simulator** | Симулятор хакера для развлечения |
 
-## 🖼️ Скриншоты
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SG-STD/arch-toolkit/main/screenshots/main.png" alt="Главное меню" width="600">
-  <p><em>Главное меню Arch Bash Toolkit</em></p>
-  
-  <img src="https://raw.githubusercontent.com/SG-STD/arch-toolkit/main/screenshots/system_info.png" alt="Информация о системе" width="600">
-  <p><em>Модуль информации о системе</em></p>
-  
-  <img src="https://raw.githubusercontent.com/SG-STD/arch-toolkit/main/screenshots/ascii_fun.png" alt="ASCII Fun" width="600">
-  <p><em>Модуль ASCII-арт и развлечения</em></p>
-</div>
-
 ## 🤝 Вклад в проект
 
 Вклады приветствуются! Если у вас есть идеи по улучшению Arch Bash Toolkit:
@@ -120,11 +105,11 @@ sudo pacman -S yad
 
 ## 📄 Лицензия
 
-Распространяется под лицензией MIT. См. файл `LICENSE` для получения дополнительной информации.
+Распространяется под свободной лицензией.
 
 ---
 
 <div align="center">
   <p>Создано с ❤️ для сообщества Arch Linux</p>
-  <p>© 2023 SG-STD</p>
+  <p>© 2023 SG STUDIO</p>
 </div>
