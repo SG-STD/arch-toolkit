@@ -22,7 +22,7 @@
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/SG-STD/bash-toolkit.git
-cd bash-toolkit
+git clone https://github.com/SG-STD/arch-toolkit.git
+cd arch-toolkit
 chmod +x install.sh
 ./install.sh
